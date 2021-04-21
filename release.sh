@@ -1,8 +1,8 @@
 #!/bin/sh
 
-hugo
+hugo  -d  doc
 
-cp -rf public/* docs/
-
-git add * && git commit -m 'new article' && git push
+git add .
+git commit -m 'new article'  
+git push
 

@@ -1,0 +1,30 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>我的全新 Hugo 网站</title>
+        <link>http://example.org/</link>
+        <description>我的全新 Hugo 网站</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 21 Apr 2021 00:00:00 &#43;0000</lastBuildDate>
+            <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>关于</title>
+    <link>http://example.org/posts/about/</link>
+    <pubDate>Wed, 21 Apr 2021 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>http://example.org/posts/about/</guid>
+    <description><![CDATA[现在我们公司为您呈现的是葫芦岛楼房实景图，您可以通过我们公司提供的这张图片来了解一下葫芦岛的楼房外景、交通情况，如果您是一个孩子家长的话，您]]></description>
+</item><item>
+    <title>想在辽宁高考，什么时候转学籍好呢</title>
+    <link>http://example.org/posts/first_post/</link>
+    <pubDate>Mon, 30 Nov 2020 23:33:03 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://example.org/posts/first_post/</guid>
+    <description><![CDATA[按辽宁高考报名条件，外省身份证号码的学生在辽宁高考，如果不想去辽宁实际上学，就得在辽宁有户口和学籍。 怎么把户口迁移到辽宁？按辽宁省政策，在辽]]></description>
+</item><item>
+    <title>想在辽宁高考，什么时候转学籍好呢</title>
+    <link>http://example.org/posts/second_post/</link>
+    <pubDate>Mon, 30 Nov 2020 23:33:03 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://example.org/posts/second_post/</guid>
+    <description><![CDATA[辽宁高考报名政策： 1、外省户口考生，辽宁高中起始注册学籍，学生在辽宁就读三年。 2、单人辽宁户口考生，辽宁户籍满3年（截止至高考报名第一天），]]></description>
+</item></channel>
+</rss>

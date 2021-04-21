@@ -1,7 +1,12 @@
 ---
-title: "办辽宁户口学籍流程"
-date: 2021-04-13T11:11:35+08:00
-draft: true
+title: "想在辽宁高考，什么时候转学籍好呢"
+date: 2020-11-30T23:33:03+08:00
+draft: false
+toc: false
+isCJKLanguage: true
+images:
+tags:
+- 文章2
 ---
 按辽宁高考报名条件，外省身份证号码的学生在辽宁高考，如果不想去辽宁实际上学，就得在辽宁有户口和学籍。
 
