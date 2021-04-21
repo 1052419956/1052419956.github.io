@@ -2,12 +2,12 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://example.org/posts/</loc><lastmod>2021-04-21T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://example.org/posts/about/</loc><lastmod>2021-04-21T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>http://example.org/</loc><lastmod>2021-04-21T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://example.org/about/</loc><lastmod>2021-04-21T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://example.org/posts/</loc><lastmod>2020-11-30T23:33:03&#43;08:00</lastmod></url><url>
             <loc>http://example.org/tags/</loc><lastmod>2020-11-30T23:33:03&#43;08:00</lastmod></url><url>
             <loc>http://example.org/posts/first_post/</loc><lastmod>2020-11-30T23:33:03&#43;08:00</lastmod></url><url>
             <loc>http://example.org/posts/second_post/</loc><lastmod>2020-11-30T23:33:03&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/</loc><lastmod>2020-11-30T23:33:03&#43;08:00</lastmod></url><url>
             <loc>http://example.org/tags/%E6%96%87%E7%AB%A0/</loc><lastmod>2020-11-30T23:33:03&#43;08:00</lastmod></url><url>
             <loc>http://example.org/tags/%E6%96%87%E7%AB%A02/</loc><lastmod>2020-11-30T23:33:03&#43;08:00</lastmod></url><url>
             <loc>http://example.org/categories/</loc></url></urlset>
