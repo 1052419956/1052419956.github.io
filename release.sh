@@ -1,6 +1,6 @@
 #!/bin/sh
 
-hugo  -d  doc
+hugo  -d  docs
 
 git add .
 git commit -m 'new article'  
